@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/spotify/pedalboard/commit/05e8f0b3c4851e77485d7e842dc0355b44106471",
       "git:hexsha": "05e8f0b3c4851e77485d7e842dc0355b44106471",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.9.26"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.9.26",
+      "repolex:parsedAt": "2026-10-18T00:31:09.076921+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spotify/pedalboard/commit/152128e7530192d1be5659251b952c775bedcdef",
