@@ -1,0 +1,11 @@
+{
+  "org": "spotify",
+  "repo": "pedalboard",
+  "versions": [
+    {
+      "commit": "05e8f0b3c4851e77485d7e842dc0355b44106471",
+      "tag": "v0.9.26",
+      "parsed_at": "2026-10-18T00:31:09.077815+00:00"
+    }
+  ]
+}
